@@ -117,4 +117,4 @@ home-lab-wazuh/
 
 Cybersecurity student focused on Blue Team / SOC analysis, building toward a junior SOC analyst role. Currently completing the Google Cybersecurity Certificate and TryHackMe's SOC Level 1 path.
 
-[LinkedIn](https//:www.linkedin.com/in/luisangelcruz-cybersecurity) | [GitHub](https://github.com/luisangelcruz17)
+[LinkedIn](https://www.linkedin.com/in/luisangelcruz-cybersecurity) | [GitHub](https://github.com/luisangelcruz17)
