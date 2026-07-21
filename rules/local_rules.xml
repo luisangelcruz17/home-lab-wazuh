@@ -1,0 +1,9 @@
+<group name="local,windows,authentication_failed,">
+  <rule id="100011" level="10" frequency="3" timeframe="120">
+    <if_matched_sid>60122</if_matched_sid>
+    <description>Multiple failed login attempts detected on Laptop-Luis - possible brute force</description>
+    <mitre>
+      <id>T1110</id>
+    </mitre>
+  </rule>
+</group>
