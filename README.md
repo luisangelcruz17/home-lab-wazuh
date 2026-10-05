@@ -110,7 +110,6 @@ home-lab-wazuh/
 
 - [ ] Add File Integrity Monitoring rule for a sensitive directory
 - [ ] Expand MITRE ATT&CK coverage with additional detection rules
-- [ ] Continue TryHackMe SOC Level 1 path and cross-apply concepts here
 - [ ] Document findings as individual write-ups (one per detection/CVE)
 
 ## About Me
